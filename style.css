@@ -777,9 +777,6 @@ background: #d96b96;
     color: white !important;
 }
 
-/* =========================================
-   SECCIÓN MENSAJE PRINCIPAL
-========================================= */
 
 .mensaje-principal {
     width: 100%;
@@ -811,9 +808,6 @@ background: #d96b96;
 }
 
 
-/* =========================================
-   BOLSITA IZQUIERDA
-========================================= */
 
 .decoracion-bolsa {
     width: 180px;
@@ -854,7 +848,6 @@ background: #d96b96;
 }
 
 
-/* ASA DE LA BOLSA */
 
 .asa {
     width: 38px;
@@ -874,7 +867,6 @@ background: #d96b96;
 }
 
 
-/* BRILLO DE LA BOLSA */
 
 .bolsa-brillo {
     width: 17px;
@@ -897,7 +889,6 @@ background: #d96b96;
 }
 
 
-/* CORAZÓN DE LA BOLSA */
 
 .bolsa span {
     color: white;
